@@ -79,7 +79,7 @@ recordsTotal = """" & total  & """" 'este total é o contador de registros no ba
 recordsFiltered = """" & totalRegistros & """" 'totalRegistros = Clng(total("total")) - 1
 %>
 ````
-##### E o parâmetro 'data'será preenchido com os dados buscados no seu sql. ex.:
+##### E o parâmetro 'data' será preenchido com os dados buscados no seu sql. ex.:
 ```` asp
 <%
  data = ""
