@@ -1,5 +1,5 @@
-# datatable
-Tutorial de implementação DataTable com classic ASP
+# DataTable 
+Tutorial: implementação de jQuery DataTable com classic ASP
 
 ##### 1º passo: atualizar/instalar o componente [DataTable](https://datatables.net/)
 ##### 2º passo: Adicionar no arquivo que irá consumir o Json - dentro da tag ````<head> ````
